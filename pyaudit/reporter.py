@@ -66,7 +66,7 @@ def leer_codigo_fuente(ruta: Path) -> str:
 
 
 def report_console(resultado: AuditResult) -> None:
-    print("=== REPORTE DE PYAUDIT ===")
+    print("=== REPORTE DE AUDITHOR ===")
     print(f"Proyecto: {resultado.ruta_proyecto}")
     print(
         f"Archivos analizados: "
