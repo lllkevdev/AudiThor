@@ -46,7 +46,7 @@ audithor/
 Cloná el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/audithor.git
+git clone https://github.com/lllkevdev/audithor.git
 cd audithor
 ```
 
