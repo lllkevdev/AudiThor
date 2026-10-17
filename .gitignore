@@ -1,0 +1,24 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Herramientas y pruebas
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Archivos locales y resultados de auditoría
+.env
+.env.*
+pyaudit_report.json
+
+# Editores
+.vscode/
+.idea/
